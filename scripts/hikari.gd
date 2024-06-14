@@ -79,5 +79,3 @@ func attack(delta):
 			is_attacking = false
 			if is_on_floor():
 				animation.play("idle")
-
-
